@@ -1,0 +1,27 @@
+# lab-flask
+
+<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edc
+fea8b-e3f6-4f35-9398-43be66b5622d.png) -->
+
+
+To run flask application 
+
+```
+python app.py
+```
+
+
+To access your flask application open new tab in and paste the url:
+```
+https://{your_url}.pwskills.app:5000/
+```
+
+Dependencies to be installed for cloud-
+```
+- FLASK == 1.1.2
+- gunicorn == 20.0.4
+- requests == 2.24.0
+```
+
+Data flow -:
+LOCAL  --> GIT --> CLOUD
